@@ -2,8 +2,8 @@ Semen — Movie App
 Запуск
 
 1. Клонировать репозиторий
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/ernest97almos/semen.git
+cd semen
 
 2. Создать .env файлы
 Backend:
